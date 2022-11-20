@@ -7,15 +7,14 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.Owner = ['94712870635']
+global.OwnerNumber = ['94712870635']
+global.ownertag = ['94712870635']
+global.BotName = "🅴🆁🆁🅾🆁 001"
+global.packname = "🅴🆁🆁🅾🆁 001 bot"
+global.author = "By: 🐉ＬＵＣ_🅧_ＳＥＣ🐉"
+global.OwnerName = "Radeeshana D"
+global.BotSourceCode = "https://github.com/error001789/Miku-MD"
 global.sessionName = "session"
 
 
@@ -23,11 +22,11 @@ global.sessionName = "session"
 global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
 
 
-global.location = "West Bengal, India"
+global.location = "Mathugama,Sri Lanka"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/error001789"
 global.lolhuman = "KaysaS"
 
 
@@ -59,18 +58,18 @@ global.ntilink = []
 
 global.mess = {
     jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+    useradmin: 'Sorry, only *Group Admins* can use this command.',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
-    grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Baka!',
+    botowner: 'Only my *Owner* can use this command.',
+    grouponly: 'This command is only made for *Groups*.',
+    privateonly: 'This command is only made for *Private Chat*.',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Chotto Matte...',
-    nolink: 'Please provide me *link*, Baka!',
-    error: 'An error occurd!',
+    nolink: 'Please provide me *link*.',
+    error: 'An error occured!',
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+    nonsfw: 'Control your emotions machan! This is not a NSFW enabled group!'
     
 }
 
